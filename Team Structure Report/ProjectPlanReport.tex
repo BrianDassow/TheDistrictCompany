@@ -1,0 +1,86 @@
+\documentclass[11pt]{report}
+\usepackage{amsfonts,amssymb,amsmath,amsthm,epsfig,euscript,verbatim,graphicx, pdfpages}
+\usepackage[blocks]{authblk}% The option is for block layout
+\setlength{\textwidth}{6.3in}
+\setlength{\textheight}{8.7in}
+\setlength{\topmargin}{0pt}
+\setlength{\headsep}{0pt}
+\setlength{\headheight}{0pt}
+\setlength{\oddsidemargin}{0pt}
+\setlength{\evensidemargin}{0pt}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{conjecture}{Conjecture}
+
+
+\title{The District Company \\ Status Report: 1}
+
+\author{
+Megan Mortensen\\
+\small \texttt{mortensenm0704@my.uwstout.edu}
+\and
+Connor Phu\\
+\small \texttt{phuk0784.my.uwstout.edu}
+\and
+Brian Dassow\\
+\small \texttt{dassowb0941@my.uwstout.edu}
+\and
+Bella Nordahl\\
+\small \texttt{nordahli0985@my.uwstout.edu}
+\and
+Advisor: Keith Wojciechowski\\
+\small \texttt{wojciechowskik@uwstout.edu}\\
+\bigskip
+AMCS Program\\
+University of Wisconsin, Stout
+}
+
+\date{\small Submitted: 2/4/16;  Accepted: 2/4/16;}
+
+\begin{document}
+\maketitle
+
+\section*{\hspace{-.5cm} Team Structure}
+
+
+\section*{\hspace{-.5cm} Problem Statement}\label{intro}
+The problem presented by The District Company is to use data analytics to inform
+their marketing strategies.
+
+
+
+
+\subsection*{\hspace{-.5cm} What is the Problem?}\label{tech}
+Our client, The District Company, has asked us to use data analytics to explore
+their event data. We are going to use this information to determine if the events they are holding bring in extra business and revenue to their company. We specifically want to analyze the correlation between their events and concession sales.
+\newline
+                The client would like us to look at the data they send us and create surveys to answer some of their questions.  They would like to know what events are making money.  They need to know what food and drinks are selling and when they are being sold.  It would also be important to figure out what times are best for different events and which people they should target for their events.  They want to decide if any changes they have recently made have increased or decreased their profits. 
+\newline
+            Also, they are considering eliminating some of the computers in the building to create more desk space for card and board games.  They want to know if people would show up to tournaments and different events that use the computers.  If customers would like to see this they would keep the computers and try to incorporate new events.  If there is not enough interest they would like to get rid of them so that they can have more space for other games.  
+
+\subsection*{\hspace{-.5cm} Why is the Problem Important to the
+Client?}\label{tech} 
+This is an important problem to the company because it will allow them to
+make important business decisions based on the data.  They will know which events and games bring in the most profit in concession sales and which events do exceptionally well and which ones might not.  The information we provide will help them to become better informed about what their customers are looking for and what the company can do to meet their needs.
+
+
+
+\subsection*{\hspace{-.5cm} How we plan to solve this.}\label{tech}
+	For our problem we are looking at many different approaches to get the most information possible.  So far we have been looking at different ways to manipulate the data we have and make meaningful graphs out of what we have found.  We are also working on survey questions to help us get more information.  There are a few questions that we do not have answers or plans for yet.  
+\newline
+	One of our first approaches by just combing through the data has been looking for where the most revenue is coming in.  We have looked for what items get the most revenue.  There have been spikes in revenue that correlate to particular events.  We are also trying to figure out what counts as a good sales day for the company.  
+\newline
+	The data we were given shows daily revenue, which gives us a lot of information, but many zeros.  So we are going to try looking at the data as consolidated months or weeks.  We are also going to compare the days of the week (like Mondays versus Wednesdays) since they have weekly events.  We are going to try to use this information to see what days are the best for the customers.  
+\newline
+	We plan to make surveys that we are going to try to put on Facebook.  To start we are looking at the current reviews of the company on Facebook.  We have started to make a Python program to parse through surveys.  We will test this program on the current reviews we have found.  Once we have this figured out and have the surveys we will try to use classifiers to group customers by what they come to The District Company for.  We may also use them to rate the games and products.  
+\newline
+	There are some things that we were looking at before that we do not currently have a plan for.  We were looking at the use of their 3D printer and computers.  We recently saw something that indicated they have gotten rid of their computers so we are no longer sure if we need to look at this.  We also have not come up with any plans to use multiple regression yet.  
+
+
+\subsection*{\hspace{-.5cm} Risks we may run into.}\label{tech}
+We are worried about not having our methods show interesting or important results.  We might not having good enough relationships to make decisions from.  We also could have a problem if we do not have a useful response on time.  
+
+
+\end{document}
