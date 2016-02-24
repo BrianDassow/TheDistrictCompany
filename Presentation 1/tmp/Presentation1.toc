@@ -1,0 +1,3 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introducing the Problem}{2}{0}{1}
+\beamer@sectionintoc {2}{Solution}{4}{0}{2}

@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Feb 04 11:36:51 CST 2016
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=TeamStructureReport.tex
+outputFile=TeamStructureReport.pdf
+langSpell=en
+markDer=true
+srcDir=

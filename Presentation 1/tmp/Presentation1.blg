@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Presentation1.aux
+I couldn't open database file MyBibTeX.bib
+---line 31 of file Presentation1.aux
+ : \bibdata{MyBibTeX
+ :                  }
+I'm skipping whatever remains of this command
+The style file: plain.bst
+I found no \citation commands---while reading file Presentation1.aux
+I found no database files---while reading file Presentation1.aux
+(There were 3 error messages)
