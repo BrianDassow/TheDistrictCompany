@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introducing the Problem}{2}{0}{1}
+\beamer@sectionintoc {2}{Data Analysis}{4}{0}{2}
+\beamer@sectionintoc {3}{Regressions}{6}{0}{3}
+\beamer@sectionintoc {4}{Acknowledgements}{12}{0}{4}
