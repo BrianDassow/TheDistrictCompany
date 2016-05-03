@@ -1,0 +1,935 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.17)  2 MAY 2016 20:21
+entering extended mode
+**"FInal Report.tex"
+("FInal Report.tex"
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\euscript.sty"
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen116
+\calc@Bdimen=\dimen117
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count103
+\calc@Cskip=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen118
+\AM@pageheight=\dimen119
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@toc@title=\toks29
+\c@AM@survey=\count104
+\AM@templatesizebox=\box29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen120
+\extrarowheight=\dimen121
+\NC@list=\toks30
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\authblk.sty"
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip54
+\@affilsep=\skip55
+\c@Maxaffil=\count105
+\c@authors=\count106
+\c@affil=\count107
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+\c@tracingmulticols=\count108
+\mult@box=\box30
+\multicol@leftmargin=\dimen122
+\c@unbalance=\count109
+\c@collectmore=\count110
+\doublecol@number=\count111
+\multicoltolerance=\count112
+\multicolpretolerance=\count113
+\full@width=\dimen123
+\page@free=\dimen124
+\premulticols=\dimen125
+\postmulticols=\dimen126
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box31
+\last@line=\box32
+\maxbalancingoverflow=\dimen127
+\mult@rightbox=\box33
+\mult@grightbox=\box34
+\mult@gfirstbox=\box35
+\mult@firstbox=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\c@columnbadness=\count114
+\c@finalcolumnbadness=\count115
+\last@try=\dimen128
+\multicolovershoot=\dimen129
+\multicolundershoot=\dimen130
+\mult@nat@firstbox=\box54
+\colbreak@box=\box55
+\mc@col@check@num=\count116
+)
+\c@theorem=\count117
+\c@conjecture=\count118
+ ("FInal Report.aux"
+
+LaTeX Warning: Label `tech' multiply defined.
+
+
+LaTeX Warning: Label `tech' multiply defined.
+
+
+LaTeX Warning: Label `tech' multiply defined.
+
+
+LaTeX Warning: Label `fig:Graphs' multiply defined.
+
+
+LaTeX Warning: Label `fig:Graphs' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen131
+\scratchbox=\box56
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen132
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks32
+)
+\AtBeginShipoutBox=\box57
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)) [1
+
+{C:/Users/Student/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [1]
+Missing character: There is no ’ in font cmr10!
+
+! Misplaced alignment tab character &.
+l.84 ...ek (the events are Kids Board Game Teach-&
+                                                  -Play, Dungeons and Dragon...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+<TotalMonthlyRevenue.png, id=14, 881.2925pt x 406.51875pt>
+File: TotalMonthlyRevenue.png Graphic file (type png)
+
+<use TotalMonthlyRevenue.png>
+Package pdftex.def Info: TotalMonthlyRevenue.png used on input line 88.
+(pdftex.def)             Requested size: 450.75069pt x 207.9173pt.
+Missing character: There is no ’ in font cmr10!
+ [2] [3 <./TotalMonthlyRevenue.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (3.38847pt too wide) in paragraph at lines 99--99
+[]|\OT1/cmr/m/n/10.95 Saturday| 
+ []
+
+
+Overfull \hbox (1.14017pt too wide) in paragraph at lines 99--101
+[]|\OT1/cmr/m/n/10.95 Sunday| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+[]|[]\OT1/cmr/m/n/10.95 Modern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]|\OT1/cmr/m/n/10.95 Board
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\OT1/cmr/m/n/10.95 Game
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[]|[]\OT1/cmr/m/n/10.95 Magic:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+[]|[]\OT1/cmr/m/n/10.95 Yu-Gi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\OT1/cmr/m/n/10.95 Oh!
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\OT1/cmr/m/n/10.95 Tour-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\OT1/cmr/m/n/10.95 na-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]|[]\OT1/cmr/m/n/10.95 Friday
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\OT1/cmr/m/n/10.95 night
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+[]|[]\OT1/cmr/m/n/10.95 Super
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+\OT1/cmr/m/n/10.95 Smash
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+\OT1/cmr/m/n/10.95 Bros
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+[]|[]\OT1/cmr/m/n/10.95 Kids
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+\OT1/cmr/m/n/10.95 Board-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+\OT1/cmr/m/n/10.95 Game
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+\OT1/cmr/m/n/10.95 Teach-
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 113--114
+[]|[]\OT1/cmr/m/n/10.95 Star Wars
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/cmr/m/n/10.95 X-Wing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\OT1/cmr/m/n/10.95 Minia-tures
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+[]|[]\OT1/cmr/m/n/10.95 EDH/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+\OT1/cmr/m/n/10.95 Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+\OT1/cmr/m/n/10.95 man-der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+\OT1/cmr/m/n/10.95 meet
+ []
+
+
+Overfull \hbox (5.00917pt too wide) in paragraph at lines 115--116
+[]|[]\OT1/cmr/m/n/10.95 Warhammer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]|[]\OT1/cmr/m/n/10.95 Board
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\OT1/cmr/m/n/10.95 Game
+ []
+
+
+Overfull \hbox (2.60017pt too wide) in paragraph at lines 117--118
+[]|[]\OT1/cmr/m/n/10.95 Booster
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+[]|[]\OT1/cmr/m/n/10.95 Force
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 118--119
+\OT1/cmr/m/n/10.95 of Will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+\OT1/cmr/m/n/10.95 Tour-na-
+ []
+
+
+Overfull \hbox (12.60725pt too wide) in paragraph at lines 119--121
+[]|[]\OT1/cmr/m/n/10.95 Dungeons
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+\OT1/cmr/m/n/10.95 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+\OT1/cmr/m/n/10.95 Drag-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+\OT1/cmr/m/n/10.95 ons:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+\OT1/cmr/m/n/10.95 Ex-pe-
+ []
+
+
+Overfull \hbox (5.00917pt too wide) in paragraph at lines 123--124
+[]|[]\OT1/cmr/m/n/10.95 Warhammer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]|[]\OT1/cmr/m/n/10.95 Game
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/cmr/m/n/10.95 De-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/cmr/m/n/10.95 signer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/cmr/m/n/10.95 Meet-
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 125--126
+[]|[]\OT1/cmr/m/n/10.95 Star Wars
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\OT1/cmr/m/n/10.95 X-Wing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\OT1/cmr/m/n/10.95 Minia-tures
+ []
+
+
+Overfull \hbox (4.89005pt too wide) in paragraph at lines 126--127
+[]|[]\OT1/cmr/m/n/10.95 Throwback
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[]|\OT1/cmr/m/n/10.95 Magic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\OT1/cmr/m/n/10.95 the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\OT1/cmr/m/n/10.95 Gath-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\OT1/cmr/m/n/10.95 er-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\OT1/cmr/m/n/10.95 Chaos
+ []
+
+
+Overfull \hbox (9.50473pt too wide) in paragraph at lines 129--131
+[]|[]\OT1/cmr/m/n/10.95 Pokemon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\OT1/cmr/m/n/10.95 Trad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\OT1/cmr/m/n/10.95 ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\OT1/cmr/m/n/10.95 Card
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\OT1/cmr/m/n/10.95 Game
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+\OT1/cmr/m/n/10.95 League
+ []
+
+[4]
+Overfull \hbox (5.22462pt too wide) in paragraph at lines 146--146
+[]|\OT1/cmr/m/n/10.95 Wednesday| 
+ []
+
+
+Overfull \hbox (2.733pt too wide) in paragraph at lines 146--146
+[]|\OT1/cmr/m/n/10.95 Thursday| 
+ []
+
+
+Overfull \hbox (0.54303pt too wide) in paragraph at lines 146--146
+[]|\OT1/cmr/m/n/10.95 Saturday| 
+ []
+
+
+Overfull \hbox (0.96883pt too wide) in paragraph at lines 155--156
+[]|\OT1/cmr/m/n/10.95 Pokemon
+ []
+
+
+Overfull \hbox (0.96883pt too wide) in paragraph at lines 156--158
+[]|[]\OT1/cmr/m/n/10.95 Pokemon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+[]|\OT1/cmr/m/n/10.95 Dice
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+\OT1/cmr/m/n/10.95 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+\OT1/cmr/m/n/10.95 ac-ces-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+\OT1/cmr/m/n/10.95 ac-ces-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
+\OT1/cmr/m/n/10.95 ac-ces-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[]|\OT1/cmr/m/n/10.95 Yu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+\OT1/cmr/m/n/10.95 Gi-Oh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+[]|[]\OT1/cmr/m/n/10.95 Yu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+\OT1/cmr/m/n/10.95 Gi-Oh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+[]|[]\OT1/cmr/m/n/10.95 Yu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+\OT1/cmr/m/n/10.95 Gi-Oh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
+[]|[]\OT1/cmr/m/n/10.95 Yu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
+\OT1/cmr/m/n/10.95 Gi-Oh
+ []
+
+
+Overfull \hbox (5.00917pt too wide) in paragraph at lines 189--190
+[]|[]\OT1/cmr/m/n/10.95 Warhammer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+[]|\OT1/cmr/m/n/10.95 Dragon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+[]|\OT1/cmr/m/n/10.95 Dragon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+[]|[]\OT1/cmr/m/n/10.95 Dragon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[]|\OT1/cmr/m/n/10.95 Video
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]|\OT1/cmr/m/n/10.95 Video
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+[]|[]\OT1/cmr/m/n/10.95 Video
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+[]|\OT1/cmr/m/n/10.95 Event
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+[]|\OT1/cmr/m/n/10.95 Card
+ []
+
+
+Overfull \hbox (4.7101pt too wide) in paragraph at lines 254--255
+[]|\OT1/cmr/m/n/10.95 Beverages| 
+ []
+
+
+Overfull \hbox (4.7101pt too wide) in paragraph at lines 255--257
+[]|[]\OT1/cmr/m/n/10.95 Beverages| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+[]|\OT1/cmr/m/n/10.95 Board
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 274--275
+[]|\OT1/cmr/m/n/10.95 Force of
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Bev&Food.png, id=26, 567.11874pt x 386.44376pt>
+File: Bev&Food.png Graphic file (type png)
+ <use Bev&Food.png>
+Package pdftex.def Info: Bev&Food.png used on input line 293.
+(pdftex.def)             Requested size: 211.26286pt x 143.9549pt.
+
+<Bottled&Food.png, id=27, 567.11874pt x 386.44376pt>
+File: Bottled&Food.png Graphic file (type png)
+ <use Bottled&Food.png>
+Package pdftex.def Info: Bottled&Food.png used on input line 297.
+(pdftex.def)             Requested size: 211.26286pt x 143.9549pt.
+
+<Canned&Food.png, id=28, 567.11874pt x 386.44376pt>
+File: Canned&Food.png Graphic file (type png)
+ <use Canned&Food.png>
+Package pdftex.def Info: Canned&Food.png used on input line 306.
+(pdftex.def)             Requested size: 211.26286pt x 143.9549pt.
+
+<Glass&Food.png, id=29, 567.11874pt x 386.44376pt>
+File: Glass&Food.png Graphic file (type png)
+ <use Glass&Food.png>
+Package pdftex.def Info: Glass&Food.png used on input line 310.
+(pdftex.def)             Requested size: 211.26286pt x 143.9549pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--322
+
+ []
+
+[5]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.359 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (13.00728pt too wide) in paragraph at lines 364--388
+ [][][] 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.400 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ’ in font cmr10!
+[6]
+
+! LaTeX Error: Unknown float option `c'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415 \begin{figure}[c]
+                       
+Option `c' ignored and `p' used.
+
+<TotalItemsSold.png, id=38, 314.67563pt x 291.33844pt>
+File: TotalItemsSold.png Graphic file (type png)
+
+<use TotalItemsSold.png>
+Package pdftex.def Info: TotalItemsSold.png used on input line 419.
+(pdftex.def)             Requested size: 211.26286pt x 195.59583pt.
+ <TotalNetSales.png, id=39, 308.65312pt x 292.84406pt>
+File: TotalNetSales.png Graphic file (type png)
+
+<use TotalNetSales.png>
+Package pdftex.def Info: TotalNetSales.png used on input line 428.
+(pdftex.def)             Requested size: 211.26286pt x 200.44951pt.
+ [7] [8 <./Bev&Food.png> <./Bottled&Food.png> <./Canned&Food.png> <./Glass&Food
+.png>] [9 <./TotalItemsSold.png> <./TotalNetSales.png>]
+("FInal Report.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3762 strings out of 493673
+ 49394 string characters out of 3143953
+ 133749 words of memory out of 3000000
+ 7046 multiletter control sequences out of 15000+200000
+ 10273 words of font info for 39 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 37i,10n,39p,994b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmtt10.pfb>
+Output written on "FInal Report.pdf" (10 pages, 229419 bytes).
+PDF statistics:
+ 76 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
